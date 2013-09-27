@@ -10,5 +10,6 @@ sudo add-apt-repository chris-lea/node.js
 sudo apt-get update
 sudo apt-get install nodejs
 npm install
-npm node_modules/coffeescript/
+for x in $(ls *.coffee); do node_modules/coffee-script/bin/coffee -c $x; done
 ```
+
