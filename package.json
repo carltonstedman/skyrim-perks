@@ -1,0 +1,19 @@
+{
+    "name": "skyrim-perks",
+    "description": "Web interface for skyrim perks calculation",
+    "private": false,
+    "version": "0.1.0",
+    "repository": "https://github.com/carltonstedman/skyrim-perks.git",
+    "author": [
+        {"name": "https://github.com/chrizel"},
+        {"name": "Carlton Stedman"}
+    ],
+    "homepage": "https://github.com/carltonstedman/skyrim-perks",
+    "main": "./bin/index",
+    "dependencies": {
+        "coffee-script": ">= 1.6.3"
+    },
+    "engine": {
+        "node": "0.10.*"
+    }
+}
