@@ -278,7 +278,7 @@ class PerkTreeView
         ctx.restore()
 
     ctx.restore()
-  
+
     if title
       perkInfos = getPerkInfos(@model)
 
