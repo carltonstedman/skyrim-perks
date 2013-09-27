@@ -866,7 +866,7 @@ window.perkTrees = [
       {
         name: 'Shield Wall'
         levels: 5
-        desc: ['Blocking is 20% more effective.', 'Blocking is 25% more effective.', 'Blocking is 30% more effective.', 'Blocking is 35% more effective.', 'Blocking is 40% more effective.']
+        desc: ['Blocking is 10% more effective.', 'Blocking is 20% more effective.', 'Blocking is 30% more effective.', 'Blocking is 40% more effective.', 'Blocking is 50% more effective.']
         req: [0, 20, 40, 60, 80]
         pos: [0, 0]
         id: ['000BCCAE', '00079355', '00079356', '00079357', '00079358']
