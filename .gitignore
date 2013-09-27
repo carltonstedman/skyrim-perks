@@ -1,4 +1,7 @@
 *.swp
 node_modules
 *.js
+!backbone*.js
+!jquery*.js
+!underscore*.js
 
